@@ -94,6 +94,6 @@ var numero2 = prompt("Digite outro número:")
 
 var resultado = Number(numero) + Number(numero2) 
 
-console.log("O resultaldo é:", resultado)
+console.log("O resultado é:", resultado)
 
 alert("O resultaldo é:" + resultado)
